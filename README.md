@@ -67,8 +67,9 @@
 🦝 **팀원 임영선**
 
 * IoT 담당
-* 초음파 센서를 이용한 터치기능 구현
-* openCV, face_recognition을 이용한 얼굴인식 기능 구현
+* 라즈베리파이 포팅 작업
+* 아두이노와 초음파센서를 이용한 무선터치장비 제작(터치기능 구현)
+* face_recognition, Teachable Machine을 이용한 얼굴인식, 자세인식 기능 구현
 
 💘 **팀원 유지홍**
 
@@ -139,7 +140,7 @@
 
 백엔드: Spring Security를 활용한 OAuth2.0과 JWT를 활용한 인증 방식 Naver Clova/Google Speech를 활용한 음성인식 기능 탑재 MariaDB
 
-IoT: 라즈베리파이(Raspberry Pi 4 Model B Rev 1.2) Python(3.7.3) face_recognition(1.3.0)
+IoT: 라즈베리파이(Raspberry Pi 4 Model B), Visual Studio Code, Python, C, Arduino IDE
 
 기획: JIRA, Notion, Mattermost (팀 협업, 프로젝트 관리) GitLab(버전관리) Figma(디자인 협업) ERD cloud(DB 모델링) Coggle(마인드맵)
 ```
@@ -190,13 +191,18 @@ IoT: 라즈베리파이(Raspberry Pi 4 Model B Rev 1.2) Python(3.7.3) face_recog
 
 #### - language
 
-<img alt="AWS" src="https://img.shields.io/badge/Raspberry Pi-2496ED?style=for-the-badge&logo=Raspberry Pi&logoColor=white"><img alt="Python" src="https://img.shields.io/badge/Debian version 10 (buster)-A81D33?style=for-the-badge&logo=Python&logoColor=white"><img alt="Debian" src="https://img.shields.io/badge/Python 3.7.3/3.8.12-3776AB?style=for-the-badge&logo=Debian&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python 3.7.3-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 </br>
 
 #### - equipment
 
-* HC-SR04(초음파 센서), SIG H703(웹캠)
+* Raspberry Pi
+* 초음파센서 (HC-SR04, HC-SR04P)
+* 아두이노 wifi 모듈 (Wemos D1 mini)
+* 아두이노 wifi 모듈 배터리 쉴드 (WeMos D1 Mini Battery Shield)
+* 리튬폴리머배터리 (lithium polymer battery YJ603450)
+* 웹캠(SIG H703)
 
 </br>
 
@@ -210,7 +216,7 @@ IoT: 라즈베리파이(Raspberry Pi 4 Model B Rev 1.2) Python(3.7.3) face_recog
 
 ## 🕋 프로젝트 구성도
 
-<img src="https://lab.ssafy.com/s07-webmobile3-sub2/S07P12D204/-/raw/master/db/ERD_imaginationPlayground.png">
+<img src="./db/ERD_imaginationPlayground.png">
 
 </br>
 
