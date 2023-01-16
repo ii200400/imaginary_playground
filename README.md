@@ -251,3 +251,12 @@ IoT: 라즈베리파이(Raspberry Pi 4 Model B), Visual Studio Code, Python, C, 
 7. 모든 과정은 자동으로 진행되지만 사용자가 수동으로도 조작할 수 있는 시스템
 8. 블렌더로 3D 캐릭터를 제작함으로써 생동감 증대
 9. 웹서비스 기반의 확장 가능한 서비스, Oauth2와 JWT를 활용한 보안 및 접근성 증대
+
+## 더 찾아보기
+
+* 노션
+https://quill-peripheral-d93.notion.site/ed5a71762fd1428097710fd05e435e20
+* UCC
+https://www.youtube.com/watch?v=CdfojzqRaxo&ab_channel=sojung
+* SSAFY 인터뷰
+https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY
