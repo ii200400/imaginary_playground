@@ -1,262 +1,121 @@
 # 🎪 상상놀이터(소아병동 아이들을 위한 IoT 서비스)
 
-<!-- 필수 항목 -->
-
-</br>
-
-## ✔ 카테고리
-
-| Application | Domain | Language | Framework |
-| ---- | ---- | ---- | ---- |
-| :white_check_mark: Desktop Web | :black_square_button: AI | :white_check_mark: JavaScript | :black_square_button: Vue.js |
-| :black_square_button: Mobile Web | :black_square_button: Big Data | :black_square_button: TypeScript | :white_check_mark: React |
-| :white_check_mark: Responsive Web | :black_square_button: Blockchain | :white_check_mark: C/C++ | :black_square_button: Angular |
-| :black_square_button: Android App | :white_check_mark: IoT | :black_square_button: C# | :black_square_button: Node.js |
-| :black_square_button: iOS App | :black_square_button: AR/VR/Metaverse | :white_check_mark: ​Python | :black_square_button: Flask/Django |
-| :black_square_button: Desktop App | :black_square_button: Game | :white_check_mark: Java | :white_check_mark: Spring/Springboot |
-| | | :black_square_button: Kotlin | |
-
-<!-- 필수 항목 -->
-
 ## 💁‍♀️ 프로젝트 소개
 
-- **개요**
-  - 소아병동 아이들을 위한 교육 및 놀이 통합형 IoT 서비스
-  - 실시간 참여할 수 있는 IT 놀이공간
+- **프로젝트 기간**
 
-* **주요 기능**
+  - 2022.07.05 ~ 2022.08.19 (7주)
+  
+- 👨‍👧‍👧 요들(요셉과 아이들)팀
+  
+  - 6명 (Front-end 3명, Back-end 2명, IOT 1명)
 
-  * 4개의 테마(정글, 우주, 바다, 크리스마스)로 다양한 체험 제공
+- **기획 배경**
+  
+  **어디서도 아이들의 상상력이 멈추지 않도록**✨
+
+  상상놀이터는 **소아병동 아이들을 위한 교육 및 놀이 통합형 IoT 서비스**입니다.
+
+  병원이라는 제한적인 공간에서 오랜 시간을 보내는 환우들에게 다양한 경험을 선물해주고 싶어 기획하게 되었습니다. 또한 힘든 치료와 장기입원으로 인해 또래들보다 신체적 및 정서적 발달이 늦은 아이들에게 놀이를 통해 도움을 주고자 하였습니다.
+
+- **특징**
+
+  * 아이들의 이목을 끄는 4개의 테마(정글, 우주, 바다, 크리스마스)
   * 아이들의 정서적 및 신체적 발달을 위한 간단한 놀이 제공
   * 회원 담당 환자등록 서비스
   * 회원관리 및 1대1 문의 서비스
   * 빔 프로젝터, 키오스크 등 확장 가능한 IoT & 웹 서비스
 
-* **주요 기술**
+- **서비스 화면**
 
-  - Single Page Application
-  - Raspberry Pi
-  - REST API
+  - [웹 게임 화면 흐름도](https://www.notion.so/917844d38c464a9ba6a8ed01729709f3)
+  - [웹사이트 화면 흐름도](https://www.notion.so/34eaae0279ef4f08ae12cacf2265f364)
 
-* **프로젝트 기간**
+- **배포**
 
-  2022.07.11 ~ 2022.08.19
-
-* **배포 환경**
-
-  - URL: https://i7d204.p.ssafy.io/
+  - 웹사이트 주소: [https://i7d204.p.ssafy.io/login](https://i7d204.p.ssafy.io/login)
+  - 게임 사이트 주소:  [https://common-test-0808.netlify.app/](https://common-test-0808.netlify.app/)
 
 </br>
 
-## 👨‍👧‍👧 요들(요셉과 아이들)팀 소개
-🦉 **팀장 양요셉**
+## 🏆 수상 내역
 
-- Back-end
-- 서버 API 개발
-- DB 관리
-- CI/CD 구축
+  - [싸피 사회공헌 대표 프로젝트](https://youtu.be/ahgLgfGCZPs)
+  - [SSAFY 공통 프로젝트 최우수](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e859eeb6-ce6f-491d-8079-307ce9531f97/%EC%83%81%EC%83%81%EB%86%80%EC%9D%B4%ED%84%B0%EC%83%81%EC%9E%A5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230219T130951Z&X-Amz-Expires=86400&X-Amz-Signature=b360f6d34e1e6052f6f3517bd9b2ef8ef70cfcfa613d1a84df9ffe0a9b019967&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25EC%2583%2581%25EC%2583%2581%25EB%2586%2580%25EC%259D%25B4%25ED%2584%25B0%25EC%2583%2581%25EC%259E%25A5.png%22&x-id=GetObject)
+  - [SSAFY UCC 경진대회 전국 1위 입상](https://www.youtube.com/watch?v=CdfojzqRaxo&ab_channel=sojung)
+  - [SSAFY 인터뷰](https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY)
 
-👿 **팀원 권성호**
+## 📒 주요 기술
 
-- Front-end
-- 전반적인 게임 작동방식 구현
-- 캐릭터 디자인
-- 3D 캐릭터 제작
-- 라즈베리파이와 프론트엔드 통신 담당
+- 프론트엔드
+  - React
+  - Three.JS(3D 웹 실행)
+  - Blender(3D 캐릭터 구현)
+  - Axios (API 통신 라이브러리)
+  - Mui(리액트 CSS 라이브러리)
+  - Javascript, Redux(리액트 상태관리 라이브러리)
+  - HTML5
+  - CSS3
 
-🦝 **팀원 임영선**
+- 백엔드
+  - Java 11
+  - Spring Boot 2.7.1
+  - Spring Security 5.7.2
+  - OAuth2.0
+  - JWT
+  - Naver Clova/Google Speech (음성인식 기능)
+  - MariaDB
+  - MyBatis
 
-* IoT 담당
-* 라즈베리파이 포팅 작업
-* 아두이노와 초음파센서를 이용한 무선터치장비 제작(터치기능 구현)
-* face_recognition, Teachable Machine을 이용한 얼굴인식, 자세인식 기능 구현
 
-💘 **팀원 유지홍**
+- 배포
+  - Docker
+  - AWS
+  - Jenkins
 
-- Front-end
+- IoT
+  - 라즈베리파이(Raspberry Pi 4 Model B)
+  - Face recognition (얼굴인식)
+  - Teachable Machine (자세인식)
+  - Python
+  - Arduino IDE
+  - C
+  - Socket.io, WebSocket
+  - Node.js
 
-* 웹 페이지 제작
-* 게임 작동방식 구현
-* 라즈베리파이와 프론트엔드 통신 담당
-
-**🐨 팀원 김성령**
-
-* Back-end
-* 서버 API 개발
-* DB 관리
-* CI/CD 구축
-
-🎄 **팀원 박소정**
-
-* Front-end
-* 전반적인 게임 작동방식 구현
-* 테마맵 디자인
-* css 스타일링
-
-</br>
-
-## 🎁 프로젝트 상세 설명
-
-**어디서도 아이들의 상상력이 멈추지 않도록**✨
-
-**상상놀이터**는 소아병동 아이들을 위한 교육 및 놀이 통합형 IoT 서비스입니다.
-
-병원이라는 제한적인 공간에서 오랜 시간을 보내는 환우들에게 다양한 경험을 선물해주고 싶어 기획하게 되었습니다. 또한 힘든 치료와 장기입원으로 인해 또래들보다 신체적 및 정서적 발달이 늦은 아이들에게 놀이를 통해 도움을 주고자 하였습니다.
-
-</br>
-
-### 서비스 화면
-
-**상상놀이터 메인 테마맵**
+- 협업 툴
+  - JIRA
+  - Notion
+  - Mattermost (팀 협업, 프로젝트 관리)
+  - GitLab(버전관리)
+  - Figma(디자인 협업)
+  - ERD cloud(DB 모델링)
+  - Coggle(마인드맵)
 
 </br>
 
-**게임 테마 - 정글 <우가우가숲>**
+## 🛠 IoT 장비
 
-</br>
+- 장비 구성
+  - 초음파 센서 (HC-SR04P)
+  - 아두이노 wifi 모듈 (Wemos D1 mini)
+  - 아두이노 wifi 모듈 배터리 쉴드 (WeMos D1 Mini Battery Shield)
+  - 리튬폴리머배터리 (lithium polymer battery YJ603450)
 
-**게임 테마 - 우주 <갤럭시월드>**
+- 툴
+  - [Fritzing](https://fritzing.org/)
 
-</br>
-
-**게임 테마 - 바다 <언더더씨>**
-
-</br>
-
-**이벤트 테마 - 크리스마스 <눈 내리는 마을>**
-
-</br>
-
-**웹 페이지 - 회원가입**
-
-
-
-</br>
-
-### 🛠 기술 환경
-
-```
-프론트엔드: React, Three.JS(3D 웹 실행), Blender(3D 캐릭터 구현) Axios (API 통신 라이브러리), Mui(리액트 CSS 라이브러리), Javascript, Redux(리액트 상태관리 라이브러리), HTML5, CSS3
-
-백엔드: Spring Security를 활용한 OAuth2.0과 JWT를 활용한 인증 방식 Naver Clova/Google Speech를 활용한 음성인식 기능 탑재 MariaDB
-
-IoT: 라즈베리파이(Raspberry Pi 4 Model B), Visual Studio Code, Python, C, Arduino IDE
-
-기획: JIRA, Notion, Mattermost (팀 협업, 프로젝트 관리) GitLab(버전관리) Figma(디자인 협업) ERD cloud(DB 모델링) Coggle(마인드맵)
-```
-
-</br>
-
-​             
-
-### 📒 기술 스택
-
-​               
-
-### Front
-
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"><img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-
-</br>
-
-​             
-
-### Back
-
-</br>
-
-#### - Server
-
-<img src="https://img.shields.io/badge/JAVA 11-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot 2.7.1-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img alt="AWS" src="https://img.shields.io/badge/Spring Security 5.7.2-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-
-</br>
-
-#### - DB
-
-<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB 10.6.8-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white">
-
-</br>
-
-#### - Distribution
-
-<img alt="AWS" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"><img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-
-</br>
-
-​                 
-
-### IoT
-
-</br>
-
-#### - language
-
-<img alt="Python" src="https://img.shields.io/badge/Python 3.7.3-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
-</br>
-
-#### - equipment
-
-* Raspberry Pi
-* 초음파센서 (HC-SR04, HC-SR04P)
-* 아두이노 wifi 모듈 (Wemos D1 mini)
-* 아두이노 wifi 모듈 배터리 쉴드 (WeMos D1 Mini Battery Shield)
-* 리튬폴리머배터리 (lithium polymer battery YJ603450)
-* 웹캠(SIG H703)
-
-</br>
-
-#### - library
-
-<img alt="face recog" src="https://img.shields.io/badge/Face Recognition v 1.2.2-ffffff?style=for-the-badge&logoColor=white"><img alt="delib" src="https://img.shields.io/badge/dlib(19.24.99)-ffffff?style=for-the-badge&logoColor=white"><img alt="opencv" src="https://img.shields.io/badge/openCV(4.5.1)-ffffff?style=for-the-badge&logoColor=white"><img alt="Google Assistant SDK" src="https://img.shields.io/badge/Google Assistant SDK-ffffff?style=for-the-badge&&logo=Google&logoColor=black">
-
-</br>
-
-</br>
+- [사진 및 상세내용](https://quill-peripheral-d93.notion.site/IoT-27d0904303e84f4a87292032b0cc3b62)
 
 ## 🕋 프로젝트 구성도
 
 <img src="./db/ERD_imaginationPlayground.png">
 
-</br>
-
-
-
-## 🎪 기능 상세
+- [디렉토리 구조](https://github.com/ii200400/imaginary_playground/tree/develop/backend#%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
 
 </br>
 
-### - 서비스 설명 / 주요기능
+## 👀 더 찾아보기
 
-1. 소아병동 아이들이 실시간 참여할 수 있는 IOT 놀이공간
-2. 약 6개의 테마, 각 맵마다 다른 게임으로
-아이들에게 다양한 체험 제공
-3. 표정 분석을 이용한 맞춤형 심리 진단 서비스 제공
-4. 정서 안정 및 스트레스 완화를 위한 색칠 놀이 기능
-5. 아이의 그림놀이, AI와 대화 자료를 바탕으로 한
-통계 데이터 열람 기능
-6. 빔 프로젝터, 키오스크 또는 태블릿 등 확장성이 용이한
-웹 서비스로 접근성 증대
+* [노션](https://quill-peripheral-d93.notion.site/ed5a71762fd1428097710fd05e435e20)
 
-</br>
-
-#### - 서비스의 특징 / 독창성
-
-1. 개인모드와 공용모드로 나눠져있어 개인 또는 다수가 동시에 플레이 가능
-2. 6종류의 다양한 테마를 구성하여 아이들이 다양한 환경에서 게임 플레이 가능
-3. 개인모드의 미술놀이와 상담 및 친구 기능은 병원과 연계하여 아이들의 심리 상태 파악에 활용
-4. 단순한 유희성 게임이 아닌 놀이와 교육을 통합한 게임으로 아이들의 사회성, 신체, 인지 발달에 기여
-5. 프로젝트 빔을 사용하여 화면을 보여주고 초음파 센서를 활용하여 터치패널이 없는 화면에서도 터치가 가능하도록 구현
-6. 회원가입 시에 등록한 아이 얼굴 사진을 토대로 얼굴인식을 한 후 사용자와 상호작용
-7. 모든 과정은 자동으로 진행되지만 사용자가 수동으로도 조작할 수 있는 시스템
-8. 블렌더로 3D 캐릭터를 제작함으로써 생동감 증대
-9. 웹서비스 기반의 확장 가능한 서비스, Oauth2와 JWT를 활용한 보안 및 접근성 증대
-
-## 더 찾아보기
-
-* 노션
-https://quill-peripheral-d93.notion.site/ed5a71762fd1428097710fd05e435e20
-* UCC
-https://www.youtube.com/watch?v=CdfojzqRaxo&ab_channel=sojung
-* SSAFY 인터뷰
-https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY
