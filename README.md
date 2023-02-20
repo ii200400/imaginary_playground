@@ -139,7 +139,7 @@
 
 - [사진 및 상세내용](https://quill-peripheral-d93.notion.site/IoT-27d0904303e84f4a87292032b0cc3b62)
 
-## 🕋 프로젝트 구성도
+## 🕋 DB 구조도
 
 <img src="./db/ERD_imaginationPlayground.png">
 
