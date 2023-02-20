@@ -5,14 +5,30 @@
 <details>
 <summary>서비스 시연 사진</summary>
 <div markdown="1">
+  
+  <img src="./gif/touch1.gif" width=500>
+
+  > 터치기능를 활용한 쓰레기 분리수거 놀이
+  
+  <img src="./gif/touch2.gif" width=500>
+  
+  > 터치기능를 활용한 행성 색칠 놀이
+  
+  <img src="./gif/pose1.gif" width=500>
+  
+  > 자세인식기능을 활용한 운동 놀이
 
 </div>
 </details>
 
 <details>
-<summary>경북 어린이 병원 기념사진</summary>
+<summary>경북 어린이 병원 시연 사진</summary>
 <div markdown="1">
-
+  
+  <img src = "https://user-images.githubusercontent.com/19484971/220014885-f135aa9a-5de1-467c-9af0-7e0a5ccdfd1d.jpg" width = 700>
+  
+  <img src = "https://user-images.githubusercontent.com/19484971/220014882-78c39352-2084-4520-96b9-c78711e730b6.png" width = 700>
+  
 </div>
 </details>
 
