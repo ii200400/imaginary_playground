@@ -2,6 +2,20 @@
 
 ### **소아병동 아이들을 위한 교육 및 놀이 통합형 웹 IoT 서비스**
 
+<details>
+<summary>서비스 시연 사진</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+<details>
+<summary>경북 어린이 병원 기념사진</summary>
+<div markdown="1">
+
+</div>
+</details>
+
 ## 💁‍♀️ 프로젝트 소개
 
 - **프로젝트 기간**
@@ -47,50 +61,52 @@
 
 ## 📒 주요 기술
 
-- 프론트엔드
+`Frontend`
+
   - React
-  - Three.JS(3D 웹 실행)
-  - Blender(3D 캐릭터 구현)
-  - Axios (API 통신 라이브러리)
-  - Mui(리액트 CSS 라이브러리)
-  - Javascript, Redux(리액트 상태관리 라이브러리)
-  - HTML5
-  - CSS3
+  - Three.js
+  - HTML/CSS
+  - Javascript
 
-- 백엔드
-  - Java 11
-  - Spring Boot 2.7.1
-  - Spring Security 5.7.2
-  - OAuth2.0
-  - JWT
-  - Naver Clova/Google Speech (음성인식 기능)
-  - MariaDB
-  - MyBatis
+`Design`
 
+- Blender
+- Adobe Illustrator
 
-- 배포
-  - Docker
-  - AWS
-  - Jenkins
+`Backend`
 
-- IoT
-  - 라즈베리파이(Raspberry Pi 4 Model B)
-  - Face recognition (얼굴인식)
-  - Teachable Machine (자세인식)
-  - Python
-  - Arduino IDE
-  - C
-  - Socket.io, WebSocket
-  - Node.js
+- JAVA11
+- Spring Boot 2.7.1
+- Spring Security 5.7.2
+- MariaDB 10.6.8
+- MYBATIS
 
-- 협업 툴
-  - JIRA(애자일 방법론 프로젝트 관리)
-  - Notion(프로젝트 관리 및 기록)
-  - Mattermost (팀 협업, 프로젝트 관리)
-  - GitLab(버전관리)
-  - Figma(디자인 협업)
-  - ERD cloud(DB 모델링)
-  - Coggle(마인드맵)
+`DevOps`
+
+- AWS EC2
+- Docker
+- Jenkins
+
+`IOT`
+
+- 라즈베리파이(Raspberry Pi 4 Model B)
+- Arduino
+- Python 3.7.3
+- C
+- [face_recognition (얼굴인식)](https://github.com/ageitgey/face_recognition)
+- [Teachable Machine (자세인식)](https://teachablemachine.withgoogle.com/)
+- node.js v16.16.0 & npm 8.11.0
+- WebSocket, Socket.io
+
+`Cooperation Tools`
+
+- JIRA (애자일 방법론 프로젝트 관리)
+- Notion (프로젝트 관리 및 기록)
+- Mattermost (팀 협업, 프로젝트 관리)
+- GitLab (버전관리)
+- Figma (디자인 협업)
+- ERD cloud (DB 모델링)
+- Coggle (마인드맵)
 
 </br>
 
