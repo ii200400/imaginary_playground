@@ -32,7 +32,7 @@
 </div>
 </details>
 
-- [실재 시연 영상은 UCC 참고](https://github.com/ii200400/imaginary_playground#-%EC%88%98%EC%83%81-%EB%82%B4%EC%97%AD)
+- [실재 시연영상 (상상 놀이터 UCC)](https://github.com/ii200400/imaginary_playground#-%EC%88%98%EC%83%81-%EB%82%B4%EC%97%AD)
 
 ## 💁‍♀️ 프로젝트 소개
 
