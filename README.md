@@ -34,6 +34,8 @@
 
 - [실재 시연영상 (상상 놀이터 UCC)](https://github.com/ii200400/imaginary_playground#-%EC%88%98%EC%83%81-%EB%82%B4%EC%97%AD)
 
+</br>
+
 ## 💁‍♀️ 프로젝트 소개
 
 - **프로젝트 기간**
@@ -76,6 +78,8 @@
   - [SSAFY 공통 프로젝트 우수(1등)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e859eeb6-ce6f-491d-8079-307ce9531f97/%EC%83%81%EC%83%81%EB%86%80%EC%9D%B4%ED%84%B0%EC%83%81%EC%9E%A5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230219T130951Z&X-Amz-Expires=86400&X-Amz-Signature=b360f6d34e1e6052f6f3517bd9b2ef8ef70cfcfa613d1a84df9ffe0a9b019967&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25EC%2583%2581%25EC%2583%2581%25EB%2586%2580%25EC%259D%25B4%25ED%2584%25B0%25EC%2583%2581%25EC%259E%25A5.png%22&x-id=GetObject)
   - [SSAFY UCC 경진대회 전국 1위 입상](https://www.youtube.com/watch?v=CdfojzqRaxo&ab_channel=sojung)
   - [SSAFY 인터뷰](https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY)
+
+</br>
 
 ## 📒 주요 기술
 
@@ -140,6 +144,8 @@
   - [Fritzing](https://fritzing.org/)
 
 - [사진 및 상세내용](https://quill-peripheral-d93.notion.site/IoT-27d0904303e84f4a87292032b0cc3b62)
+
+</br>
 
 ## 🕋 DB 구조도
 
