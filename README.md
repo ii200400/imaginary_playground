@@ -136,8 +136,8 @@
 
 - 장비 구성
   - 초음파 센서 (HC-SR04P)
-  - 아두이노 wifi 모듈 (Wemos D1 mini)
-  - 아두이노 wifi 모듈 배터리 쉴드 (WeMos D1 Mini Battery Shield)
+  - 아두이노 wifi 보드 (Wemos D1 mini)
+  - 아두이노 wifi  배터리 쉴드 (WeMos D1 Mini Battery Shield)
   - 리튬폴리머배터리 (lithium polymer battery YJ603450)
 
 - 툴
